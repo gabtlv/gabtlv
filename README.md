@@ -26,24 +26,78 @@ I am a Software Engineering student passionate about Artificial Intelligence, Ma
 
 ---
 
-<h2>💻 Programming & Software</h2>
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,cs,git,linux" />
-</p>
+<h2 align="left">🛠️ Languages and Tools</h2>
 
-<h2>🤖 AI / Machine Learning</h2>
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
-<img src="https://skillicons.dev/icons?i=scikitlearn" />
-<img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="40"/>
-<img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="40"/>
-</p>
+<p align="left">
 
-<h2>🧰 Tools & Technologies</h2>
-<p>
-<img src="https://skillicons.dev/icons?i=arduino,matlab,mysql,sqlite,nodejs,react" />
+<a href="https://www.arduino.cc/" target="_blank">
+<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.cprogramming.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.w3schools.com/cpp/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.w3schools.com/cs/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.java.com" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.linux.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.mathworks.com/" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+</a>
+
+<a href="https://opencv.org/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/>
+</a>
+
+<a href="https://pandas.pydata.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.python.org" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://pytorch.org/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/>
+</a>
+
+<a href="https://reactjs.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+</a>
+
+<a href="https://scikit-learn.org/" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.sqlite.org/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.tensorflow.org" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
+</a>
+
 </p>
 
 ---
