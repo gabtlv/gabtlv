@@ -78,6 +78,10 @@ AI assistant integrating large language models with external tools using LangCha
 ### 📄 AI Resume Critiquer
 Streamlit application that analyzes resumes and generates structured AI feedback using OpenAI APIs and NLP techniques.
 
+🍽️ Restaurant Delivery Management System (In Progress)  
+
+Full-stack food delivery web application featuring user authentication, menu browsing, search functionality, cart management, and payment workflow. Built using Java, MySQL, and MVC architecture principles.
+
 ### 🏀 NBA Outcome Prediction Model
 Machine learning pipeline predicting NBA game outcomes using historical Kaggle datasets and live NBA API statistics.
 
