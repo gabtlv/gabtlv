@@ -121,7 +121,7 @@ Deep learning model for image classification using TensorFlow and computer visio
 
 ---
 
-<h2>📊 GitHub Stats</h2>
+<h2 align="left">📊 GitHub Stats</h2>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=gabtlv&show_icons=true&theme=tokyonight" height="170"/>
