@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gab</h1>
+<h1 Hi 👋, I'm Gab</h1>
 <h3 align="center">
 Software Engineering student passionate about Artificial Intelligence, Machine Learning, and building intelligent systems that solve real-world problems.
 </h3>
