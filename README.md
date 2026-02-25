@@ -1,22 +1,117 @@
-Your GitHub Profile README
-Preview
-Markdown
+# Hi 👋, I'm Gab
 
+### 🚀 Software Engineering Student | AI • Machine Learning • Intelligent Systems
 
-# Hi 👋, I'm gabtlv
+Passionate about building intelligent software that solves real-world problems using machine learning, AI agents, and scalable backend systems.
 
-### Software Engineering student passionate about Artificial Intelligence, Machine Learning, and building intelligent systems that solve real-world problems.
+---
 
-- 🌱 I'm currently learning **Machine Learning, LLM Applications, LangChain, System Design, and Backend Development  **
+## 🧠 About Me
 
-- 📫 How to reach me **gabtlv26@gmail.com**
+- 🎓 Software Engineering Student
+- 🤖 Interested in AI, Machine Learning, and Software Development
+- 🛠️ Building AI agents, predictive models, and full-stack applications
+- 🌱 Currently learning **Machine Learning, LLM Applications, LangChain, System Design, Backend Development**
+- 🎯 Seeking **AI / Machine Learning / Software Engineering Internships**
 
-<h3 align="left">Connect with me:</h3>
+📫 Contact: **gabtlv26@gmail.com**
+
+---
+
+## 🤝 Connect With Me
+
 <p align="left">
-<a href="https://github.com/gabtlv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="gabtlv" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gabtlv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabtlv" height="30" width="40" /></a>
-<a href="https://instagram.com/gab.tlv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gab.tlv" height="30" width="40" /></a>
+<a href="https://github.com/gabtlv" target="blank">
+<img src="https://skillicons.dev/icons?i=github" width="40" />
+</a>
+<a href="https://linkedin.com/in/gabtlv" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+</a>
+<a href="https://instagram.com/gab.tlv" target="blank">
+<img src="https://skillicons.dev/icons?i=instagram" width="40" />
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/langchain" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="langchain" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matlab" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=matlab" alt="matlab" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/opencv" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/oracle" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/streamlit" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="streamlit" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a></p>
+---
+
+# 🛠️ Tech Stack
+
+## 💻 Programming & Software
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,cs,js,git,linux" />
+</p>
+
+## 🤖 AI / Machine Learning
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
+<img src="https://skillicons.dev/icons?i=scikitlearn" />
+<img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="40"/>
+<img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="40"/>
+</p>
+
+## 🧰 Tools & Technologies
+<p>
+<img src="https://skillicons.dev/icons?i=arduino,matlab,mysql,sqlite,nodejs,react" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🤖 Tool-Using AI Assistant (ReAct Agent)
+AI assistant integrating large language models with external tools using LangChain and LangGraph for dynamic reasoning and task execution.
+
+### 📄 AI Resume Critiquer
+Streamlit application that analyzes resumes and generates structured AI feedback using OpenAI APIs and NLP techniques.
+
+### 🏀 NBA Outcome Prediction Model
+Machine learning pipeline predicting NBA game outcomes using historical Kaggle datasets and live NBA API statistics.
+
+### 📉 Customer Churn Prediction
+Machine learning model that predicts customer churn from structured customer data, using preprocessing and feature engineering to identify key churn drivers and improve retention-focused insights.
+
+### 🖼️ Image Classification Model
+Deep learning model for image classification using TensorFlow and computer vision preprocessing techniques.
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=gabtlv&show_icons=true&theme=tokyonight" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabtlv&layout=compact&theme=tokyonight" height="170"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=gabtlv&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=gabtlv&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+# 🎯 Goals
+
+- Build impactful AI systems
+- Contribute to open-source projects
+- Gain industry experience through internships
+- Continuously improve software engineering skills
+
+---
+
+⭐ Always open to collaboration and internship opportunities in **AI, Machine Learning, and Software Engineering**.
