@@ -1,6 +1,6 @@
 <h1> Hi 👋, I'm Gab</h1>
-<h3 align="center">
-Software Engineering student passionate about Artificial Intelligence, Machine Learning, and building intelligent systems that solve real-world problems.
+<h3>
+I am a Software Engineering student passionate about Artificial Intelligence, Machine Learning, and building intelligent systems that solve real-world problems.
 </h3>
 
 - 🌱 I’m currently learning **Machine Learning, LLM Applications, LangChain, System Design, and Backend Development**
