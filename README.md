@@ -36,12 +36,13 @@ Passionate about building intelligent software that solves real-world problems u
 
 # 🛠️ Tech Stack
 
-## 💻 Programming & Software
+# 🛠️ Programming & Software
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,cs,js,git,linux" />
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,cs,git,linux" />
 </p>
 
-## 🤖 AI / Machine Learning
+# 🤖 AI / Machine Learning
+
 <p>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
@@ -51,11 +52,11 @@ Passionate about building intelligent software that solves real-world problems u
 <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="40"/>
 </p>
 
-## 🧰 Tools & Technologies
+# 🧰 Tools & Technologies
+
 <p>
 <img src="https://skillicons.dev/icons?i=arduino,matlab,mysql,sqlite,nodejs,react" />
 </p>
-
 ---
 
 # 🚀 Featured Projects
