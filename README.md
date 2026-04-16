@@ -54,6 +54,12 @@ Full-stack cloud-deployed microservices platform built with Java, Docker, Kubern
 ### 🤖 Tool-Using AI Assistant (ReAct Agent)
 AI assistant built with LangChain and LangGraph that integrates LLMs with external tools for dynamic reasoning, multi-step planning, and autonomous task execution.
 
+### ⚙️ 32-bit Multi-Cycle CPU
+32-bit CPU with a custom instruction set, FSM control unit, and ripple-carry ALU designed in VHDL and synthesized on an Intel Cyclone IV FPGA.
+
+### 🤖 EEBOT Maze Runner
+Autonomous maze-navigating robot programmed in HCS12 assembly using IR sensors, bump switches, and a TOF interrupt for real-time navigation.
+
 ### 📄 AI Resume Critiquer
 Streamlit web app that processes uploaded resumes and generates structured, actionable AI feedback using the OpenAI API and PyPDF2 document pipelines.
 
@@ -68,12 +74,6 @@ Supervised learning pipeline with feature engineering, preprocessing, and model 
 
 ### 🖼️ Image Classification Model
 Deep learning model for multi-class image classification built with TensorFlow and computer vision preprocessing techniques.
-
-### ⚙️ 32-bit Multi-Cycle CPU
-32-bit CPU with a custom instruction set, FSM control unit, and ripple-carry ALU designed in VHDL and synthesized on an Intel Cyclone IV FPGA.
-
-### 🤖 EEBOT Maze Runner
-Autonomous maze-navigating robot programmed in HCS12 assembly using IR sensors, bump switches, and a TOF interrupt for real-time navigation.
 
 ---
 
