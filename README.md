@@ -3,7 +3,7 @@
 I am a Software Engineering student passionate about Artificial Intelligence, Machine Learning, and building intelligent systems that solve real-world problems.
 </h3>
 
-- 🌱 I’m currently learning **Machine Learning, LLM Applications, LangChain, System Design, and Backend Development**
+- 🌱 I'm currently learning **Machine Learning, LLM Applications, LangChain, System Design, and Backend Development**
 
 - 🎯 Seeking **AI / Machine Learning / Software Engineering Internships**
 
@@ -47,6 +47,8 @@ I am a Software Engineering student passionate about Artificial Intelligence, Ma
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" width="40" height="40"/>
+<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain-color.png" width="40" height="40"/>
+<img src="https://openai.com/favicon.ico" width="40" height="40"/>
 
 </p>
 
@@ -68,28 +70,37 @@ I am a Software Engineering student passionate about Artificial Intelligence, Ma
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
 
 </p>
+
 ---
 
 <h2>🚀 Featured Projects</h2>
 
 ### 🤖 Tool-Using AI Assistant (ReAct Agent)
-AI assistant integrating large language models with external tools using LangChain and LangGraph for dynamic reasoning and task execution.
+AI assistant built with LangChain and LangGraph that integrates large language models with external tools for dynamic reasoning, multi-step planning, and autonomous task execution.
 
 ### 📄 AI Resume Critiquer
-Streamlit application that analyzes resumes and generates structured AI feedback using OpenAI APIs and NLP techniques.
+Streamlit web app that analyzes uploaded resumes and generates structured, actionable feedback using the OpenAI API and NLP techniques.
 
-🍽️ Restaurant Delivery Management System (In Progress)  
+### 🍽️ Restaurant Delivery Management System
+Full-stack food delivery platform with user authentication, menu browsing, cart management, and payment workflow built in Java with MySQL and MVC architecture.
 
-Full-stack food delivery web application featuring user authentication, menu browsing, search functionality, cart management, and payment workflow. Built using Java, MySQL, and MVC architecture principles.
+### 📚 Bookstore Management System
+Desktop application for managing inventory, sales, and customer records built with Java, JavaFX, and SQL with a full JUnit test suite.
 
 ### 🏀 NBA Outcome Prediction Model
-Machine learning pipeline predicting NBA game outcomes using historical Kaggle datasets and live NBA API statistics.
+End-to-end ML pipeline predicting NBA game outcomes using historical Kaggle datasets and live stats pulled from the NBA API.
 
 ### 📉 Customer Churn Prediction
-End-to-end churn prediction pipeline using supervised learning with feature engineering, preprocessing, and model evaluation to identify customer retention risk.
+Supervised learning pipeline with feature engineering, preprocessing, and model evaluation to identify at-risk customers and predict churn.
 
 ### 🖼️ Image Classification Model
-Deep learning model for image classification using TensorFlow and computer vision preprocessing techniques.
+Deep learning model for multi-class image classification built with TensorFlow and computer vision preprocessing techniques.
+
+### ⚙️ 32-bit Multi-Cycle CPU
+Hardware implementation of a 32-bit CPU with a custom instruction set, FSM-based control unit, and ripple-carry ALU, designed in VHDL and synthesized for an Intel Cyclone IV FPGA.
+
+### 🤖 EEBOT Maze Runner
+Autonomous maze-navigating robot programmed in HCS12 assembly. Uses IR sensors, bump switches, and a timer overflow interrupt to navigate in real time, with live battery voltage and state feedback on an LCD display.
 
 ---
 
