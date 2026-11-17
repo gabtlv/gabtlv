@@ -22,7 +22,7 @@ Open to **Summer 2027 internships** in AI/ML and software engineering.
 | Project | What it is | Stack |
 |---|---|---|
 | **Seizure Detection System** (capstone, in progress) | Wrist-worn seizure monitor. I lead the ML module: real-time detection built to fit on a microcontroller. | Python, NumPy, scikit-learn |
-| [**Haggle**](https://github.com/pierceluu10/Haggle) (hackathon 2nd place, team) | Voice AI agent that calls businesses and negotiates prices for you. | Next.js, ElevenLabs, Twilio |
+| [**Haggle**](https://devpost.com/software/haggle-wob7uk) (hackathon 2nd place, team) | Voice AI agent that calls businesses and negotiates prices for you. | Next.js, FastAPI, OpenAI API, ElevenLabs, Twilio |
 | [**Sports Outcome Prediction**](https://github.com/gabtlv/sports-outcome-prediction) | Web app that predicts NBA and MLB game outcomes from live team stats. | XGBoost, FastAPI, React, MLflow |
 | [**AI Tool-Using Assistant**](https://github.com/gabtlv/ai-tool-using-assistant) | ReAct agent that decides when to call tools to answer a question. | LangChain, LangGraph |
 | [**Restaurant Delivery System**](https://github.com/gabtlv/Restaurant-Delivery-System) | Monolith refactored into microservices on Kubernetes with async messaging and JWT auth. | Java, Docker, Kubernetes (GKE), KubeMQ |
